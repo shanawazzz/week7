@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/shanawazzz/week7.git/static/css/main.ff02f4b5.css",
-    "main.js": "/shanawazzz/week7.git/static/js/main.594eddeb.js",
-    "static/js/592.167abb64.chunk.js": "/shanawazzz/week7.git/static/js/592.167abb64.chunk.js",
-    "static/media/mru.png": "/shanawazzz/week7.git/static/media/mru.c54c97220dd34ea5a816.png",
-    "index.html": "/shanawazzz/week7.git/index.html",
-    "main.ff02f4b5.css.map": "/shanawazzz/week7.git/static/css/main.ff02f4b5.css.map",
-    "main.594eddeb.js.map": "/shanawazzz/week7.git/static/js/main.594eddeb.js.map",
-    "592.167abb64.chunk.js.map": "/shanawazzz/week7.git/static/js/592.167abb64.chunk.js.map"
+    "main.css": "/week7/static/css/main.ff02f4b5.css",
+    "main.js": "/week7/static/js/main.65ce7e71.js",
+    "static/js/592.167abb64.chunk.js": "/week7/static/js/592.167abb64.chunk.js",
+    "static/media/mru.png": "/week7/static/media/mru.c54c97220dd34ea5a816.png",
+    "index.html": "/week7/index.html",
+    "main.ff02f4b5.css.map": "/week7/static/css/main.ff02f4b5.css.map",
+    "main.65ce7e71.js.map": "/week7/static/js/main.65ce7e71.js.map",
+    "592.167abb64.chunk.js.map": "/week7/static/js/592.167abb64.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff02f4b5.css",
-    "static/js/main.594eddeb.js"
+    "static/js/main.65ce7e71.js"
   ]
 }
